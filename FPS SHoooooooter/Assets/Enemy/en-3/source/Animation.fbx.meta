@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: b97cac5910180324b8429c8b93291b73
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bedro_L
+    100004: Bedro_R
+    100006: Foot_Left
+    100008: Foot_Right
+    100010: Golen_L
+    100012: Golen_R
+    100014: IK_Foot_L
+    100016: IK_Foot_R
+    100018: IK_Stopa_L
+    100020: IK_Stopa_R
+    100022: joint1
+    100024: joint2
+    100026: joint3
+    100028: L_Foot_CTRL
+    100030: LFoot_Bedro
+    100032: LFoot_Golen
+    100034: LFoot_Stopa
+    100036: Objective_Vnesh
+    100038: Objective_Vnesh_CTRL
+    100040: Objective_Vnutr
+    100042: Objective_Vnutr_CTRL
+    100044: Objetive_2
+    100046: Objetive_3
+    100048: Osnova_Centr
+    100050: Osnova_Centr1
+    100052: Osnova_CTRL
+    100054: Osnova_Top
+    100056: Osnova_Top_1
+    100058: Pipka
+    100060: PredStopa_L
+    100062: PredStopa_R
+    100064: R_Foot_CTRL
+    100066: RFoot_Bedro
+    100068: RFoot_Golen
+    100070: RFoot_Stopa
+    100072: Stopa_L
+    100074: Stopa_L_B
+    100076: Stopa_OS_L
+    100078: Stopa_OS_R
+    100080: Stopa_R
+    100082: Stopa_R_B
+    100084: Top_CTRL
+    400000: //RootNode
+    400002: Bedro_L
+    400004: Bedro_R
+    400006: Foot_Left
+    400008: Foot_Right
+    400010: Golen_L
+    400012: Golen_R
+    400014: IK_Foot_L
+    400016: IK_Foot_R
+    400018: IK_Stopa_L
+    400020: IK_Stopa_R
+    400022: joint1
+    400024: joint2
+    400026: joint3
+    400028: L_Foot_CTRL
+    400030: LFoot_Bedro
+    400032: LFoot_Golen
+    400034: LFoot_Stopa
+    400036: Objective_Vnesh
+    400038: Objective_Vnesh_CTRL
+    400040: Objective_Vnutr
+    400042: Objective_Vnutr_CTRL
+    400044: Objetive_2
+    400046: Objetive_3
+    400048: Osnova_Centr
+    400050: Osnova_Centr1
+    400052: Osnova_CTRL
+    400054: Osnova_Top
+    400056: Osnova_Top_1
+    400058: Pipka
+    400060: PredStopa_L
+    400062: PredStopa_R
+    400064: R_Foot_CTRL
+    400066: RFoot_Bedro
+    400068: RFoot_Golen
+    400070: RFoot_Stopa
+    400072: Stopa_L
+    400074: Stopa_L_B
+    400076: Stopa_OS_L
+    400078: Stopa_OS_R
+    400080: Stopa_R
+    400082: Stopa_R_B
+    400084: Top_CTRL
+    2100000: lambert6
+    4300000: RFoot_Bedro
+    4300002: RFoot_Golen
+    4300004: RFoot_Stopa
+    4300006: Stopa_R
+    4300008: LFoot_Bedro
+    4300010: LFoot_Golen
+    4300012: LFoot_Stopa
+    4300014: Stopa_L
+    4300016: Osnova_Centr
+    4300018: Osnova_Top_1
+    4300020: Objetive_3
+    4300022: Objetive_2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: LFoot_Bedro
+    13700002: LFoot_Golen
+    13700004: LFoot_Stopa
+    13700006: Objetive_2
+    13700008: Objetive_3
+    13700010: Osnova_Centr
+    13700012: Osnova_Top_1
+    13700014: RFoot_Bedro
+    13700016: RFoot_Golen
+    13700018: RFoot_Stopa
+    13700020: Stopa_L
+    13700022: Stopa_R
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 263
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
