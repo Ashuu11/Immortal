@@ -1,6 +1,6 @@
 # Immortal
 
-IMMORTAL - A FPS SHOOTER GAME MADE WITH UNITY 3D GAME ENGINE.
+## IMMORTAL - A FPS SHOOTER GAME MADE WITH UNITY 3D GAME ENGINE.
 
 It includes 4 Levels . You can play any level you want.
 
